@@ -5,7 +5,7 @@ Ninth-semester Systems and Computing Engineering student at Pontificia Universid
 I focus on three areas:
 
 - **Cybersecurity:** my thesis is a system that correlates OSINT data to build custom password dictionaries for authorized security audits and pentesting in Colombia. Before university, I set up an Active Directory domain controller for a company.
-- **Applied AI:** research and solution design for AI projects, such as the multilingual semantic search and RAG system that won CODEFEST AD ASTRA 2026.
+- **Applied AI:** multilingual semantic search, RAG with traceable citations, and text classification with honest evaluation (cross-validation, macro-F1, NDCG).
 - **Software development:** full web applications with automated tests, CI on GitHub Actions and real deployments. Also parallel programming in C++ (threads, OpenMP and MPI).
 
 I'm looking for an **internship** where I can contribute and keep learning.
@@ -17,8 +17,6 @@ I'm looking for an **internship** where I can contribute and keep learning.
 | Event | Result | Project |
 | --- | --- | --- |
 | **CODEFEST AD ASTRA 2026** (Colombian Aerospace Force, Universidad de los Andes, Aval Digital Labs) | **1st place**, team AeroCode | [AeroCode](https://github.com/JuanMCanchala/codefest-adastra): multi-agent assistant and analytics dashboard over 1,825 multilingual documents, with every number traceable to its source fragment |
-
-My part: I did the initial research on the challenge and proposed ideas and features that the team implemented.
 
 What our team built:
 
@@ -40,7 +38,7 @@ What our team built:
 
 ### University team projects
 
-Repositories where I was a collaborator. My part was the initial research and proposing features that the team implemented.
+Repositories where I worked as a collaborator:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -73,6 +71,7 @@ Repositories where I was a collaborator. My part was the initial research and pr
 **Backend and frontend**<br>
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -85,6 +84,9 @@ Repositories where I was a collaborator. My part was the initial research and pr
 **Data and AI**<br>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img alt="FAISS" src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
