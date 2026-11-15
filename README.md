@@ -51,6 +51,7 @@ Repositories where I worked as a collaborator:
 | --- | --- | --- |
 | [**Enemy Cars**](https://github.com/EstebanBautista/MP1) | Client-server game with four concurrency designs, one per branch: thread per vehicle, single update thread, thread per vehicle type, and a thread pool with a task queue. | C++, std::thread, WebSocket, PixiJS |
 | [**Parallel image filters**](https://github.com/EstebanBautista/MP2) | 3×3 convolution filters on PGM and PPM images: sequential, threads, OpenMP, and MPI across four containers. | C++, OpenMP, MPI, Docker |
+| [**AI-generated parallel code benchmark**](https://github.com/EstebanBautista/Midterm-2) | Compares 2D image convolution in four versions: sequential, AI-generated parallel code, AI code optimized under our direction, and a human-written parallel version. Includes a paper. *Team project.* | C++, OpenMP, LaTeX |
 | [**Ecosystem simulation**](https://github.com/EstebanBautista/MP3) | Rabbits, foxes and rocks on a grid. Three designs (sequential, Pthreads and adaptive OpenMP) that produce exactly the same result, with benchmarks and a report. | C/C++, Pthreads, OpenMP, Docker |
 
 ---
