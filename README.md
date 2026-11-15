@@ -8,7 +8,7 @@ I focus on three areas:
 - **Applied AI:** multilingual semantic search, RAG with traceable citations, and text classification with honest evaluation (cross-validation, macro-F1, NDCG).
 - **Software development:** full web applications with automated tests, CI on GitHub Actions and real deployments. Also parallel programming in C++ (threads, OpenMP and MPI).
 
-I'm looking for an **internship** where I can contribute and keep learning.
+
 
 ---
 
