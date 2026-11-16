@@ -30,7 +30,7 @@ What our team built:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**RutaLibre**](https://github.com/EstebanBautista/RutaLibre) | Delivery planner for small businesses. A C++ routing engine compiled to WebAssembly finds the shortest visit order, in the browser and on the server. In the demo, an 84.5 km route drops to 31.8 km. [Live demo](https://rutalibre-chi.vercel.app) | C++, WebAssembly, Django, FastAPI, AngularJS, PostgreSQL, S3 |
+| [**RutaLibre**](https://github.com/EstebanBautista/RutaLibre) | Delivery planner for small businesses. A C++ routing engine compiled to WebAssembly finds the shortest visit order, in the browser and on the server. In the demo, an 84.5 km route drops to 31.8 km. AWS infrastructure (EC2, RDS, S3, IAM) in Terraform, validated in CI. [Live demo](https://rutalibre-chi.vercel.app) | C++, WebAssembly, Django, FastAPI, AngularJS, PostgreSQL, S3, Terraform |
 | [**Larkhour**](https://github.com/EstebanBautista/larkhour-landing) | Landing page for a fictional brand, editable from a headless CMS, with scroll-driven animation. Lighthouse mobile: 98-99 performance, 100 accessibility and SEO. 28 unit tests and 50 end-to-end tests. [Live demo](https://larkhour-landing.vercel.app) | Next.js, TypeScript, Tailwind, Sanity, GSAP |
 | [**Service Order Manager**](https://github.com/EstebanBautista/Sistema-de-Gestion) | Tracks technical service orders and customers, with soft delete and PDF reports. [Live demo](https://sistema-de-gestion-ruddy.vercel.app) | Ruby on Rails, MySQL, Slim, Bootstrap, Prawn |
 | [**D1 Chain Simulator**](https://github.com/EstebanBautista/D1-chain-simulator) | Two stores, each on its own network, forward their sales in batches to a central site that consolidates them in MySQL and charts them. 16 containers and a simulated WAN. | Python, Docker, MySQL, REST |
@@ -96,6 +96,8 @@ Repositories where I worked as a collaborator:
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
 <img alt="Active Directory" src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
 <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 <img alt="OSINT" src="https://img.shields.io/badge/OSINT-555555?style=flat-square" />
